@@ -4,7 +4,7 @@
     margin: 2rem 5%;
     display: flex;
     justify-content: space-between;
-    background-color: rgba(140, 53, 139, 0.7);
+    background-color: rgba(203, 11, 11, 0.7);
     color: white;
     padding: 1rem 2rem;
     border-radius: 20px;   
@@ -41,4 +41,7 @@
 
 .my-navbar li a {
     color: white;
+}
+.container{
+    background-color: black;
 }
