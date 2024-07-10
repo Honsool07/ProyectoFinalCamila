@@ -29,6 +29,8 @@ get_header(); ?>
 		<?php if (have_posts()):
 			while (have_posts()):
 				the_post(); ?>
+				<p></p>
+				<p></p>
 				<h2 class="post-title"><?php the_title(); ?></h2>
 				<div>
 					<?php the_content(); ?>
